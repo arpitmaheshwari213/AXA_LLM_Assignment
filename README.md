@@ -14,6 +14,7 @@ Analyse the Customer support transcipts and identify sentiments and call outcome
 
 # Approach
 * Solved the problem as Supervised ML problem.
+* Preprocessed the data for Separating the Customer side of discussion from overall conversation.
 * Splitted the data into test and train. Created a test Dataset present in test_actual_label for 40 data poitns by manually labelled for sentiments and call outcome.
 * Performed the EDA on data for identifying important words and showing the wordcloud of important words.
   ![image](https://github.com/user-attachments/assets/33e978da-9152-4c97-bc82-edcb18dc58cd)
