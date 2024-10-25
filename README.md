@@ -16,7 +16,10 @@ Analyse the Customer support transcipts and identify sentiments and call outcome
 * Solved the problem as Supervised ML problem.
 * Splitted the data into test and train. Created a test Dataset present in test_actual_label for 40 data poitns by manually labelled for sentiments and call outcome.
 * Performed the EDA on data for identifying important words and showing the wordcloud of important words.
-* Also, showcased the distribution of classes and corresponding result in the data.
+  ![image](https://github.com/user-attachments/assets/33e978da-9152-4c97-bc82-edcb18dc58cd)
+  ![image](https://github.com/user-attachments/assets/b2257c29-47c5-4d0d-a13c-8cd99ed280ea)
+
+* Also, showcased the distribution of classes and corresponding result in the data. ![image](https://github.com/user-attachments/assets/59c35110-ff41-444c-a9db-02f2354aef0f)
 * Using locally installed Ocra Mini 3B model developed a prompt for extracting sentiments.
 * Calculated the performance by extracting accuracy, precision, recall and f1-score for both the classes for test set.
 
