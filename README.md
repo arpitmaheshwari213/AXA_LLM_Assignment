@@ -39,7 +39,7 @@ Analyse the Customer support transcipts and identify sentiments and call outcome
 
 - **Limitations**: While efficient, it may not match the accuracy and depth of reasoning found in larger models (e.g., 7B+ parameters), particularly in complex tasks.
 
-# Results 
+# Results on Test Set containing 40 Datapoints
 * Confusion Matrix showcasing the Predicted and Actual Sentiments and Call Outcome
   ![image](https://github.com/user-attachments/assets/8c5a2f02-85d3-40fd-9f65-1fd15216acec)
   ![image](https://github.com/user-attachments/assets/2164284c-937b-474c-b369-967465a60ff8)
