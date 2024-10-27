@@ -1,43 +1,278 @@
-File,LLM_Output,Sentiment,Call_Outcome,Explanation
-transcript_160.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed
+File,LLM_Output,Sentiment,Call_Outcome
+transcript_160.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The tone of Emily's conversation is neutral, as she expresses frustration with the initial denial and her subsequent disappointment. However, there are moments where anger and skepticism are also present.
 
-Explanation: The customer's statements indicate a positive sentiment as they have expressed gratitude and satisfaction with the assistance provided by the customer support representative. Additionally, the issue of denial for a service that was covered under the new policy has been resolved, but follow-up action is necessary to ensure that the customer receives the benefit of the coverage.",Positive,Follow-up action needed,"The customer's statements indicate a positive sentiment as they have expressed gratitude and satisfaction with the assistance provided by the customer support representative. Additionally, the issue of denial for a service that was covered under the new policy has been resolved, but follow-up action is necessary to ensure that the customer receives the benefit of the coverage."
-transcript_161.txt," Sentiment: Negative
-Call Outcome: Follow-up action needed",Negative,Follow-up action needed,
-transcript_162.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed",Positive,Follow-up action needed,
-transcript_163.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed",Positive,Follow-up action needed,
-transcript_164.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed",Positive,Follow-up action needed,
-transcript_165.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed
+### Call Outcome
+- **Call Outcome:** Follow-up needed",Neutral,Follow-up needed
+transcript_161.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the assistance provided and appreciates the help in resolving her issue.
 
-Explanation: The customer's statements indicate a positive sentiment as they have provided helpful information such as the surgeon's name and confirmation that their new policy would cover the medical service. Additionally, the customer has expressed frustration with the denial letter but is willing to provide more information to resolve the issue. Finally, the customer expresses gratitude towards the call center representative for their help. Therefore, it can be concluded that the sentiment of this conversation is positive and the outcome of the call requires follow-up action.",Positive,Follow-up action needed,"The customer's statements indicate a positive sentiment as they have provided helpful information such as the surgeon's name and confirmation that their new policy would cover the medical service. Additionally, the customer has expressed frustration with the denial letter but is willing to provide more information to resolve the issue. Finally, the customer expresses gratitude towards the call center representative for their help. Therefore, it can be concluded that the sentiment of this conversation is positive and the outcome of the call requires follow-up action."
-transcript_166.txt," Sentiment: Negative
-Call Outcome: Follow-up action needed
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After several attempts to log in with incorrect credentials, Emily successfully resets her password.",Positive,Issue resolved
+transcript_162.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the assistance provided and appreciates the help in resolving her issue.
 
-Explanation: The customer's statements indicate a negative sentiment as they have provided helpful information such as the reason for the denied claim but have also expressed frustration with the issue. Additionally, the customer has not received any follow-up action from the call center representative despite their efforts to resolve the issue. Therefore, it can be concluded that the outcome of the call requires follow-up action.",Negative,Follow-up action needed,"The customer's statements indicate a negative sentiment as they have provided helpful information such as the reason for the denied claim but have also expressed frustration with the issue. Additionally, the customer has not received any follow-up action from the call center representative despite their efforts to resolve the issue. Therefore, it can be concluded that the outcome of the call requires follow-up action."
-transcript_167.txt," The sentiment of the conversation is positive as the customer was provided with helpful information and given a specific number to call for follow-up. However, the issue has not been resolved yet.",,,
-transcript_168.txt," The sentiment of the conversation is positive as the customer was provided with helpful information and given a specific number to call for follow-up action. However, the issue has not been resolved yet.",,,
-transcript_169.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After clearing browser cache and cookies, Emily successfully registers with a new account.",Positive,Issue resolved
+transcript_163.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The tone of Emily's conversation is neutral, as she expresses confusion about the denied claim and her desire for clarification on how long it will take to update and approve the claim.
 
-Explanation: The customer's statements indicate a positive sentiment as they have expressed gratitude and satisfaction with the assistance provided. Additionally, the fact that the issue has been resolved indicates a positive outcome for the customer. Therefore, the output can be stated as ""Sentiment: Positive, Call Outcome: Follow-up action needed"".",Positive,Follow-up action needed,"The customer's statements indicate a positive sentiment as they have expressed gratitude and satisfaction with the assistance provided. Additionally, the fact that the issue has been resolved indicates a positive outcome for the customer. Therefore, the output can be stated as ""Sentiment: Positive, Call Outcome: Follow-up action needed""."
-transcript_170.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed",Positive,Follow-up action needed,
-transcript_171.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed",Positive,Follow-up action needed,
-transcript_172.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed",Positive,Follow-up action needed,
-transcript_173.txt," Sentiment: Positive
-Call Outcome: Follow-up action needed",Positive,Follow-up action needed,
-transcript_174.txt," Sentiment: Negative
-Call Outcome: The issue was not resolved, and the customer needs follow-up action.",Negative,"The issue was not resolved, and the customer needs follow-up action.",
-transcript_175.txt," Sentiment: Negative
-Call Outcome: The issue was not resolved, and the customer needs follow-up action.",Negative,"The issue was not resolved, and the customer needs follow-up action.",
-transcript_176.txt," Sentiment: Negative
-Call Outcome: The issue was not resolved, and the customer needs follow-up action.",Negative,"The issue was not resolved, and the customer needs follow-up action.",
-transcript_177.txt," Sentiment: Negative
-Call Outcome: The issue was not resolved, and the customer needs follow-up action.",Negative,"The issue was not resolved, and the customer needs follow-up action.",
+### Call Outcome
+- **Call Outcome:** Follow-up needed
+  - Although Emily appreciates the assistance provided in resolving her issue, there are still questions unanswered regarding the delayed approval of her claimed service.",Neutral,Follow-up needed
+transcript_164.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses enthusiasm for scheduling an appointment with a specialist and appreciates the assistance provided in resolving her issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After discussing various options, including Wednesday or Thursday appointments, Emily successfully schedules an appointment with Dr. Smith on next Wednesday at 2 PM.",Positive,Issue resolved
+transcript_165.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the assistance provided and appreciates the help in obtaining pre-authorization.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After providing necessary information to Mercy Hospital, Emily successfully obtains a decision on her medical procedure.",Positive,Issue resolved
+transcript_166.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The tone of Emily's conversation is neutral, as she expresses frustration with the registration issue and her desire for assistance in resolving it.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After clearing browser cache and cookies again, Emily receives a confirmation that her account has been successfully registered.",Neutral,Issue resolved
+transcript_167.txt,"### Sentiment Analysis
+- **Sentiment:** Negative
+  - The tone of Emily's conversation is negative, as she expresses frustration with the scheduling process and feels that her request for an earlier appointment has been denied.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After speaking to a supervisor, Emily finally receives a resolution.",Negative,Issue resolved
+transcript_168.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the resolution to her issue and looks forward to receiving a refund.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After speaking with someone about their recent visit, Emily receives an explanation for why they were charged more than expected.",Positive,Issue resolved
+transcript_169.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the resolution to her issue and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After speaking with someone about their denied claim, Emily receives a clear explanation for why it was denied.",Positive,Issue resolved
+transcript_170.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the resolution to her issue and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After speaking with someone about their copay charge, Emily receives a clear explanation for why it was charged $50.",Positive,Issue resolved
+transcript_171.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the pre-authorization request and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a pre-authorization for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_172.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the pre-authorization request and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_173.txt,"### Sentiment Analysis
+- **Sentiment:** Negative
+  - The tone of Emily's conversation is negative, as she expresses frustration with the wait time to schedule an appointment and feels that her request was not met.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a pre-authorization for her knee replacement surgery and being told it would take several days to be scheduled, Emily becomes frustrated when given conflicting information about Dr. Smith's availability.",Negative,Issue resolved
+transcript_174.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the pre-authorization request and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_175.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses frustration with the error messages and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After trying to register for her online service account multiple times without success, Emily receives assistance from the insurance company.",Positive,Issue resolved
+transcript_176.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the pre-authorization request and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_177.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the pre-authorization request and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_178.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the scheduling process and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_179.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses satisfaction with the issue resolution and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_180.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses frustration with the issue but appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_181.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the help from the insurance company and appreciates their assistance.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_182.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses interest in seeing a cardiologist and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_183.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses frustration with the denied claim and appreciates the help from the insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_184.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the help from the insurance company and appreciates their assistance.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_185.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the help from the insurance company and appreciates their assistance.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_186.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the help from the insurance company and appreciates their assistance.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_187.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the help from the insurance company and appreciates their assistance.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_188.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of Emily's conversation is positive, as she expresses gratitude for the help from the insurance company and appreciates their assistance.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - After requesting a case pre-authorized for her knee replacement surgery, Emily receives clear guidance on what to expect.",Positive,Issue resolved
+transcript_189.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The customer is providing information about their issue, but they are not expressing any strong emotions. They seem to be trying to find a solution rather than being upset or dissatisfied.
+
+### Call Outcome
+- **Call Outcome:** Follow-up needed",Neutral,Follow-up needed
+transcript_190.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing frustration with their recent bill, stating they were charged a $50 copay and are certain it was incorrect. They seem to be seeking resolution rather than dissatisfaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved",Positive,Issue resolved
+transcript_191.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing gratitude for assistance with their denied claim, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The customer's issue has been successfully addressed by resolving the denial of coverage.",Positive,Issue resolved
+transcript_192.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by updating the denied claim and confirming coverage under the new policy.",Positive,Issue resolved
+transcript_193.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by clarifying why the denied claim was issued and providing information on how to rectify it.",Positive,Issue resolved
+transcript_194.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by updating the policy and reprocessing the claim.",Positive,Issue resolved
+transcript_195.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by updating the policy and reprocessing the claim.",Positive,Issue resolved
+transcript_196.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by scheduling an appointment and clarifying additional fees.",Positive,Issue resolved
+transcript_197.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by obtaining pre-authorization for knee replacement surgery.",Positive,Issue resolved
+transcript_198.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by clarifying and resolving the copay dispute.",Positive,Issue resolved
+transcript_199.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is expressing satisfaction with assistance received, indicating a positive sentiment towards the interaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been successfully addressed by clarifying and resolving the denied claim.",Positive,Issue resolved

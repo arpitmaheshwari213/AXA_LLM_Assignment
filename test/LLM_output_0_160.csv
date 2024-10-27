@@ -1,0 +1,1073 @@
+File,LLM_Output,Sentiment,Call_Outcome
+transcript_0.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  
+### Call Outcome
+- **Call Outcome:** Follow-up Needed",Neutral,Follow-up needed
+transcript_1.txt,"### Sentiment Analysis
+- **Sentiment:** Negative
+  
+### Call Outcome
+- **Call Outcome:** Issue Resolved",Negative,Issue resolved
+transcript_2.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  
+### Call Outcome
+- **Call Outcome:** Issue Resolved",Positive,Issue resolved
+transcript_3.txt,"### Sentiment Analysis
+- **Sentiment:** Negative
+  
+### Call Outcome
+- **Call Outcome:** Issue Resolved
+- **Follow-up Needed:** Yes (anger)",Negative,Issue resolved
+transcript_4.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  
+### Call Outcome
+- **Call Outcome:** Issue Resolved
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_5.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  
+### Call Outcome
+- **Call Outcome:** Issue Resolved
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_6.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  
+### Call Outcome
+- **Call Outcome:** Issue Resolved
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_7.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_8.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_9.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_10.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_11.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_12.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+- **Follow-up Needed:** No (neutral)",Positive,Issue resolved
+transcript_13.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The tone of the message is neutral as it expresses frustration with a technical issue but does not explicitly express anger or disappointment. It also includes an exclamation mark, which can be interpreted as sarcasm.
+
+### Call Outcome
+- **Call Outcome:** Follow-up needed",Neutral,Follow-up needed
+transcript_14.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses frustration with a technical issue but does not explicitly express anger or disappointment. It also includes phrases like ""I'm still having the same issue"" and ""That didn't work either"", which convey a sense of persistence.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved",Positive,Issue resolved
+transcript_15.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses a clear request for pre-authorization and receives confirmation from the customer service representative. It also includes phrases like ""Thank you so much"" and ""No, that's all"", which convey satisfaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved",Positive,Issue resolved
+transcript_16.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses frustration with a technical issue but does not explicitly express anger or disappointment. It also includes phrases like ""Yeah, that worked!"" and ""Thank you so much"", which convey satisfaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved",Positive,Issue resolved
+transcript_17.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses frustration with a technical issue but does not explicitly express anger or disappointment. It also includes phrases like ""Okay, I've tried that"" and ""It looks like it's working now"", which convey satisfaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved",Positive,Issue resolved
+transcript_18.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses frustration with a technical issue but does not explicitly express anger or disappointment. It also includes phrases like ""I'm in!"" and ""Thanks again for your assistance"", which convey satisfaction.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved",Positive,Issue resolved
+transcript_19.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses a desire to schedule an appointment with Dr. Smith, which indicates satisfaction and hope for finding a suitable specialist.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+- **Follow-up needed:** No",Positive,Issue resolved
+transcript_20.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to log in and resolving an issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+- **Follow-up needed:** No",Positive,Issue resolved
+transcript_21.txt,"### Sentiment Analysis
+- **Sentiment:** Negative
+  - The tone of the message is negative as it expresses frustration with being unable to register or log in, and receiving a ""pending approval"" error.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** Yes",Negative,Follow-up needed
+transcript_22.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to understand the issue and providing a solution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** Yes",Positive,Follow-up needed
+transcript_23.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to understand the issue and provide a solution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** Yes",Positive,Follow-up needed
+transcript_24.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to schedule an appointment and providing a solution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_25.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to resolve an issue.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_26.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to resolve an issue.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_27.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to get a case pre-approved for an upcoming medical procedure.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_28.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to schedule an appointment.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_29.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with being able to resolve an issue and update a claim.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_30.txt,"### Sentiment Analysis
+- **Sentiment:** Negative
+  - The tone of the message is negative as it expresses frustration, anger, and a sense of urgency.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Negative,Follow-up needed
+transcript_31.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of closure.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_32.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_33.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_34.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_35.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_36.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No<|start_header_id|>assistant<|end_header_id|>
+
+This conversation has ended.",Positive,Follow-up needed
+transcript_37.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_38.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_39.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_40.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_41.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude, thanks, and a sense of resolution.
+
+### Call Outcome
+- **Call Outcome:** Issue not resolved/Follow-up needed
+- **Follow-up needed:** No",Positive,Follow-up needed
+transcript_42.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses a willingness to schedule an appointment with Dr. Smith and another specialist, indicating that Emily Wilson is interested in seeing multiple providers.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** Yes
+
+This customer has successfully scheduled appointments for themselves and their family member (the primary care physician) to see a cardiologist on Wednesday at 2 PM, with the option of rescheduling or canceling if necessary. The follow-up conversation indicates that Emily Wilson is still unsure about making it to the appointment but will confirm later by calling back.",Positive,Issue resolved
+transcript_43.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude for assistance with a denied claim and indicates that Emily Wilson believes switching policies may have resolved the issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** No
+
+This customer has successfully received help from their insurance company to resolve an issue related to a denied claim. The conversation highlights the importance of policy changes and seeking assistance when faced with issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_44.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The tone of the message is neutral as it expresses frustration with being unable to log in to an account, but does not express any negative emotions or complaints.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** Yes
+
+This customer has successfully received assistance from their insurance company's website support team. The conversation highlights the importance of verifying email addresses and checking for spam filters when troubleshooting issues, indicating that Emily Wilson is satisfied with the outcome.",Neutral,Issue resolved
+transcript_45.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude for assistance with a denied claim and indicates that Emily Wilson believes switching policies has helped resolve the issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** No
+
+This customer has successfully received help from their insurance company's support team to resolve an issue related to a denied claim. The conversation highlights the importance of verifying policy details and checking for technical issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_46.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude for assistance with a registration issue and indicates that Emily Wilson believes switching policies has helped resolve the problem.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** Yes
+
+This customer has successfully received help from their insurance company's support team to resolve an issue related to registering and logging in to online services. The conversation highlights the importance of verifying email addresses, checking for technical issues, and resetting passwords when troubleshooting problems, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_47.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude for assistance with scheduling an appointment and indicates that Emily Wilson believes switching policies has helped resolve the problem.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** No
+
+This customer has successfully received help from their insurance company's support team to schedule a dermatological appointment. The conversation highlights the importance of verifying information, checking for availability, and following up with the provider after scheduling an appointment, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_48.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses gratitude for assistance with getting a case pre-approved and indicates that Emily Wilson believes switching policies has helped resolve the issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** Yes
+
+This customer has successfully received help from their insurance company's support team to get a medical procedure approved. The conversation highlights the importance of verifying information, checking for availability, and following up with the provider after scheduling an appointment or getting pre-approved, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_49.txt,"### Sentiment Analysis
+- **Sentiment:** Negative
+  - The tone of the message is negative as it expresses frustration with being told by a doctor's office that the procedure would be covered, but not actually receiving pre-authorization from their insurance company.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** Yes
+
+This customer has successfully received help from their insurance company's support team to get medical information and a letter for pre-authorization. However, the outcome is not satisfactory as they were told by another source that the procedure would be covered but did not receive actual approval from their insurance company.",Negative,Issue resolved
+transcript_50.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses appreciation for assistance with resolving a copay issue and indicates that Emily Wilson believes switching policies has helped resolve the problem.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** No
+
+This customer has successfully received help from their insurance company's support team to address an administrative concern related to a service they received. The conversation highlights the importance of verifying information, checking for errors or omissions, and following up with the provider after resolving issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_51.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with receiving a refund for an overcharged bill and indicates that Emily Wilson believes switching policies has helped resolve the issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** No
+
+This customer has successfully received help from their insurance company's support team to address an administrative concern related to a service they paid for. The conversation highlights the importance of verifying information, checking for errors or omissions, and following up with providers after resolving issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_52.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with scheduling an appointment, indicates that Emily Wilson believes switching policies has helped resolve her issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** No
+
+This customer has successfully received help from their insurance company's support team to address a specific concern related to a service they need. The conversation highlights the importance of verifying information, checking for errors or omissions, and following up with providers after resolving issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_53.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses frustration with being unable to register for an online service, indicates that Emily Wilson believes switching policies has helped resolve her issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** Yes
+
+This customer has successfully received help from their insurance company's support team to address a specific concern related to logging into an online account. The conversation highlights the importance of verifying information, checking for errors or omissions, and following up with providers after resolving issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_54.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with receiving a pre-authorization for an MRI scan, indicates that Emily Wilson believes switching policies has helped resolve her issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** No
+
+This customer has successfully received help from their insurance company's support team to address a specific concern related to getting pre-authorization for an MRI scan. The conversation highlights the importance of verifying information, checking for errors or omissions, and following up with providers after resolving issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_55.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The tone of the message is positive as it expresses satisfaction with receiving a denial explanation, indicates that Emily Wilson believes switching policies has helped resolve her issue.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved/Follow-up needed
+- **Follow-up Needed:** Yes
+
+This customer has successfully received help from their insurance company's support team to address a specific concern related to an denied claim. The conversation highlights the importance of verifying information, checking for errors or omissions, and following up with providers after resolving issues, indicating that Emily Wilson is satisfied with the outcome.",Positive,Issue resolved
+transcript_56.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows a clear intent to schedule an appointment and follow up on pre-authorization. The customer's language, such as ""I'd like to get this done,"" indicates satisfaction with their current situation.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there is no indication that any issues were encountered during the call",Positive,Issue resolved
+transcript_57.txt,"### Sentiment Analysis
+- **Customer Response:** Neutral
+- **Reasoning:** The tone of the conversation is neutral as it does not contain any strongly positive or negative language. However, there are a few phrases that could be interpreted in different ways:
+  - ""I thought it was supposed to be $20"" might imply dissatisfaction with the copay amount.
+  - ""The doctor's office was Smith Family Medicine"" suggests some level of satisfaction but does not explicitly state any issues.
+
+### Call",Neutral,Issue resolved
+transcript_58.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with receiving pre-authorization for a knee replacement surgery. Emily Wilson expresses gratitude and appreciation, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about deductibles is answered satisfactorily,",Positive,Issue resolved
+transcript_59.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with receiving pre-authorization for an MRI scan. Emily Wilson expresses gratitude and appreciation, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about wait times is answered satisfactorily,",Positive,Issue resolved
+transcript_60.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving a denied claim. Emily Wilson expresses gratitude and appreciation, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about wait times is answered satisfactorily,",Positive,Issue resolved
+transcript_61.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving a denied copay and understanding that the policy should cover follow-ups. Emily Wilson expresses gratitude, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about a refund is answered satisf",Positive,Issue resolved
+transcript_62.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving a denied claim and understanding that the service should be covered. Emily Wilson expresses gratitude, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about updating information to reprocess a denied",Positive,Issue resolved
+transcript_63.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it shows frustration with being unable to register and log in to an online service account. Emily Wilson expresses disappointment, indicating that she was not able to resolve the issue.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about registering and logging in is",Negative,Issue resolved
+transcript_64.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving a denied copay and understanding that the service was not charged. Emily Wilson expresses gratitude, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about registering for a doctor's visit",Positive,Issue resolved
+transcript_65.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving a denied copay and understanding that the service was not charged. Emily Wilson expresses gratitude, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about receiving reimbursement is answered satisfactor",Positive,Issue resolved
+transcript_66.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with requesting a pre-authorization for medical procedures. Emily Wilson expresses gratitude, indicating that she was pleased with her request.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about getting a decision after submitting documents is answered satisfactorily",Positive,Issue resolved
+transcript_67.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving an issue and successfully activating a service account. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about their online service account is answered satisfactorily and",Positive,Issue resolved
+transcript_68.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving a denied claim. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about their denied claim is answered satisfactorily and they receive a satisfactory resolution to",Positive,Issue resolved
+transcript_69.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving an issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about logging in to their account is answered satisfactorily and they receive a satisfactory resolution",Positive,Issue resolved
+transcript_70.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it shows frustration, anger, and disappointment with a failed attempt to resolve an issue. Emily Wilson expresses frustration, indicating that she was not satisfied with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call. The customer's inquiry about logging in their online service account",Negative,Issue resolved
+transcript_71.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with resolving a denied claim. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about a denied",Positive,Issue resolved
+transcript_72.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with scheduling an appointment. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about scheduling a specialist",Positive,Issue resolved
+transcript_73.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it shows frustration with a denied claim. Emily Wilson expresses surprise and disappointment, indicating that she was not satisfied with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about",Negative,Issue resolved
+transcript_74.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with scheduling an appointment. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about scheduling a cardi",Positive,Issue resolved
+transcript_75.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with requesting a case pre-authorization. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about",Positive,Issue resolved
+transcript_76.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it shows satisfaction with scheduling an appointment. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about scheduling a specialist",Positive,Issue resolved
+transcript_77.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with being unable to register and log in. Emily Wilson expresses exasperation, indicating that she's already tried clearing her cache and password reset options.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve",Negative,Issue resolved
+transcript_78.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving the issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about logging in is",Positive,Issue resolved
+transcript_79.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving the issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about registering and logging",Positive,Issue resolved
+transcript_80.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with being unable to register and log in. Emily Wilson expresses exasperation, indicating that she's already tried clearing her cache and password reset options.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve",Negative,Issue resolved
+transcript_81.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving the issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on the conversation, there are no issues encountered during the call or any follow-ups required to resolve an issue. The customer's inquiry about a denied claim",Positive,Issue resolved
+transcript_82.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a billing issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_83.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with scheduling an appointment. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_84.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving an issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_85.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with being unable to schedule an appointment. Emily Johnson expresses disappointment, indicating that she was not satisfied with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Negative,Issue resolved
+transcript_86.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a billing issue. Emily Johnson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_87.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a billing issue. Emily Johnson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_88.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a billing issue. Emily Johnson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_89.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a billing issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_90.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a scheduling issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_91.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a scheduling issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_92.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a billing issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_93.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a scheduling issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_94.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a scheduling issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_95.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a technical issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_96.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a denied claim. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_97.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a technical issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_98.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a denied claim. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_99.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with scheduling an appointment. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_100.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a denied claim. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_101.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with scheduling an appointment. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are no issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_102.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with a technical issue. Emily Wilson expresses disappointment, indicating that she was not satisfied with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are issues encountered during the call or any follow-ups required to resolve an issue.",Negative,Issue resolved
+transcript_103.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving a denied claim. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_104.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with a case being pre-approved. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_105.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with a denied claim. Emily Wilson expresses anger, indicating that she was not satisfied with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are issues encountered during the call or any follow-ups required to resolve an issue.",Negative,Issue resolved
+transcript_106.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with a technical issue. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_107.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with a scheduling appointment. Emily Wilson expresses gratitude, indicating that she was pleased with her experience.
+
+### Call Outcome Analysis
+- **Customer Response:** Issue resolved/Follow-up needed
+- **Reasoning:** Based on this single call, there are issues encountered during the call or any follow-ups required to resolve an issue.",Positive,Issue resolved
+transcript_108.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration, anger, and a sense of being inconvenienced. Emily Wilson expresses her dissatisfaction with the process, feeling that she has already provided all necessary information and is now being treated like an inconvenience.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have been successfully scheduled for surgery after several attempts to get through to",Negative,Issue resolved
+transcript_109.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with resolving an issue. Emily Wilson expresses gratitude and appreciation for assistance, indicating that she has been able to resolve her problem.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully logged in to their online service account after several attempts to get through to the support team.",Positive,Issue resolved
+transcript_110.txt,"### Sentiment Analysis
+- **Customer Response:** Neutral
+- **Reasoning:** The tone of the conversation is neutral as it indicates a sense of frustration and confusion. Emily Wilson expresses her concerns about why she was denied a claim, but also acknowledges that this may be due to an error on their part.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have been successfully contacted by the insurance company's claims department after several attempts to get through.",Neutral,Issue resolved
+transcript_111.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration, anger, and a sense of being misunderstood. Emily Wilson expresses her disappointment with the billing process, feeling that she was misinformed about what would be charged.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have been successfully contacted by an insurance company's claims department after several attempts to get through.",Negative,Issue resolved
+transcript_112.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving a pre-authorization for an upcoming procedure. Emily Wilson expresses gratitude and appreciation, indicating that she has been able to resolve her issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received a pre-authorization from the insurance company's claims department after several attempts to get through.",Positive,Issue resolved
+transcript_113.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration, anger, and disappointment with the insurance company's response to a legitimate issue. Emily Wilson expresses her dissatisfaction, stating that she has wasted time trying to resolve an issue that was not hers.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have received assistance from the claims department after several attempts to get through.",Negative,Issue resolved
+transcript_114.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving a scheduled appointment for an orthopedic specialist. Emily Wilson expresses her desire to see Dr. Smith on Wednesday at 2 PM, indicating that she has been able to resolve this issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the claims department after several attempts to get",Positive,Issue resolved
+transcript_115.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from the claims department after several attempts to get through. Emily Wilson expresses her concern about a denied claim, but ultimately receives confirmation that the procedure should be covered under her new policy.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the claims department and are now on track with",Positive,Issue resolved
+transcript_116.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from the claims department after several attempts to get through. Emily Wilson expresses her concern about a denied claim, but ultimately receives confirmation that the procedure should be covered under her policy.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the claims department and are now on track with resolving",Positive,Issue resolved
+transcript_117.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from the claims department after several attempts to get through. Emily Wilson expresses her interest in scheduling an appointment with a cardiologist and receives confirmation that Dr. Johnson can see her on Thursday at 10 AM.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the claims department,",Positive,Issue resolved
+transcript_118.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson expresses frustration about being unable to log in, but receives help and successfully resolves the issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the technical support representative,",Positive,Issue resolved
+transcript_119.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson provides detailed information to resolve her issue, and receives help in completing registration.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the technical support representative,",Positive,Issue resolved
+transcript_120.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Rachel Lee provides detailed information about her needs and receives help in scheduling an appointment.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the technical support representative,",Positive,Issue resolved
+transcript_121.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson provides detailed information about her medical procedure and receives help in obtaining pre-authorization.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the technical support representative,",Positive,Issue resolved
+transcript_122.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson provides detailed information about her medical needs and receives help in obtaining pre-authorization.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the technical support representative,",Positive,Issue resolved
+transcript_123.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson provides detailed information about her medical needs and receives help in scheduling an appointment.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the technical support representative,",Positive,Issue resolved
+transcript_124.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson provides detailed information about her medical needs and receives help in scheduling an appointment.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received assistance from the technical support representative,",Positive,Issue resolved
+transcript_125.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with receiving assistance from a technical support representative. Emily Wilson provides incorrect information and receives further errors, indicating that she may not be able to resolve her issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved.",Negative,Issue resolved
+transcript_126.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson provides detailed information about her medical needs and receives help in scheduling an appointment.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved.",Positive,Issue resolved
+transcript_127.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with receiving assistance from a technical support representative. Emily Wilson expresses dissatisfaction and demands resolution for her denied claim, which may not be met.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to further issues with the system",Negative,Issue resolved
+transcript_128.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily Wilson provides clear information about her claim and receives help in resolving its status.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to further issues with the system",Positive,Issue resolved
+transcript_129.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with receiving assistance from a technical support representative. Emily's repeated attempts to log in and her growing dissatisfaction with being locked out for an extended period suggest that she has had difficulty resolving this issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their",Negative,Issue resolved
+transcript_130.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with receiving assistance from a technical support representative. Emily's repeated attempts to resolve her denied claim and her growing dissatisfaction suggest that she has had difficulty resolving this issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Negative,Issue resolved
+transcript_131.txt,"### Sentiment Analysis
+- **Customer Response:** Negative
+- **Reasoning:** The tone of the conversation is negative as it indicates frustration with receiving assistance from a technical support representative. Emily's repeated attempts to resolve her denied copay and her growing dissatisfaction suggest that she has had difficulty resolving this issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due",Negative,Issue resolved
+transcript_132.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides detailed information about her medical procedure and receives help in getting pre-authorization, which suggests that she has had success resolving this issue.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem",Positive,Issue resolved
+transcript_133.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her denied claim and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due",Positive,Issue resolved
+transcript_134.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_135.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her denied claim and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due",Positive,Issue resolved
+transcript_136.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_137.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_138.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_139.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_140.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_141.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_142.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_143.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_144.txt,"### Sentiment Analysis
+- **Customer Response:** Positive
+- **Reasoning:** The tone of the conversation is positive as it indicates satisfaction with receiving assistance from a technical support representative. Emily provides clear information about her issue and receives help in resolving its status, which suggests that she has had success.
+
+### Call Outcome Analysis:
+The customer outcome can be classified as ""Issue Resolved"" because they have successfully received some level of help from the technical support representative, but their problem is still unresolved due to",Positive,Issue resolved
+transcript_145.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The customer is initially frustrated with their registration issue but seems to be satisfied after resolving the problem. They mention that they've tried resetting their password and it worked, which suggests a positive outcome.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved",Neutral,Issue resolved
+transcript_146.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a denied claim, which indicates they are looking for help and resolution. They also express gratitude after receiving the support.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The customer's issue has been addressed by updating their policy information and reprocessing their claim.",Positive,Issue resolved
+transcript_147.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The customer is seeking help with an issue, but they are hesitant to share their password and instead ask for a hint. They seem uncertain about the security question provided.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - Despite some hesitation in sharing personal information, the customer's issue has been successfully addressed by providing additional context (security question) that helped resolve the problem.",Neutral,Issue resolved
+transcript_148.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The customer is seeking clarification on their recent doctor's visit charges, which indicates a desire for more information about the billing process. They seem to be satisfied with the outcome but want confirmation that everything will work as expected.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing additional context and asking follow-up questions to clarify the situation.",Neutral,Issue resolved
+transcript_149.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The customer is seeking assistance with a login issue, which indicates frustration. They are unsure of the cause and seek clarification.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - Despite some initial hesitation in sharing personal information, the customer's issue has been successfully addressed by providing additional context (security question) that helped resolve the problem.",Neutral,Issue resolved
+transcript_150.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a billing issue, which indicates satisfaction. They are grateful for the help and appreciate it.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing additional context (date of birth) that helped resolve the problem.",Positive,Issue resolved
+transcript_151.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a pre-authorize request, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (date of birth) that helped resolve the problem.",Positive,Issue resolved
+transcript_152.txt,"### Sentiment Analysis
+- **Sentiment:** Neutral
+  - The customer is seeking assistance with a billing issue, which indicates some frustration. They are clear about their problem and ask for help to resolve it.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (date of birth) that helped resolve the problem.",Neutral,Issue resolved
+transcript_153.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a pre-authorize request, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (date of birth) that helped resolve the problem.",Positive,Issue resolved
+transcript_154.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a technical issue, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (email address) that helped resolve the problem.",Positive,Issue resolved
+transcript_155.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a technical issue, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (email address) that helped resolve the problem.",Positive,Issue resolved
+transcript_156.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a billing issue, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (date of visit) that helped resolve the problem.",Positive,Issue resolved
+transcript_157.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a billing issue, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (date of visit) that helped resolve the problem.",Positive,Issue resolved
+transcript_158.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a billing issue, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (date of visit) that helped resolve the problem.",Positive,Issue resolved
+transcript_159.txt,"### Sentiment Analysis
+- **Sentiment:** Positive
+  - The customer is seeking assistance with a billing issue, which indicates satisfaction. They are clear and concise in their communication.
+
+### Call Outcome
+- **Call Outcome:** Issue resolved
+  - The issue has been addressed by providing necessary information (date of surgery) that helped resolve the problem.",Positive,Issue resolved
